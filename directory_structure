@@ -1,0 +1,61 @@
+
+ITSupportManagementSystem/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   ├── com/
+│   │   │   │   ├── itsupport/
+│   │   │   │   │   ├── controller/
+│   │   │   │   │   │   ├── UserController.java
+│   │   │   │   │   │   ├── TicketController.java
+│   │   │   │   │   │   ├── AdminController.java
+│   │   │   │   │   │   └── NotificationController.java
+│   │   │   │   │   ├── model/
+│   │   │   │   │   │   ├── User.java
+│   │   │   │   │   │   ├── Ticket.java
+│   │   │   │   │   │   ├── Category.java
+│   │   │   │   │   │   └── History.java
+│   │   │   │   │   ├── repository/
+│   │   │   │   │   │   ├── UserRepository.java
+│   │   │   │   │   │   ├── TicketRepository.java
+│   │   │   │   │   │   ├── CategoryRepository.java
+│   │   │   │   │   │   └── HistoryRepository.java
+│   │   │   │   │   ├── service/
+│   │   │   │   │   │   ├── UserService.java
+│   │   │   │   │   │   ├── TicketService.java
+│   │   │   │   │   │   ├── CategoryService.java
+│   │   │   │   │   │   └── HistoryService.java
+│   │   │   │   │   └── config/
+│   │   │   │   │       ├── WebSecurityConfig.java
+│   │   │   │   │       ├── DatabaseConfig.java
+│   │   │   │   │       └── AppConfig.java
+│   │   │   ├── resources/
+│   │   │   │   ├── application.properties
+│   │   │   │   ├── static/
+│   │   │   │   │   ├── css/
+│   │   │   │   │   │   └── style.css
+│   │   │   │   │   ├── js/
+│   │   │   │   │   │   └── script.js
+│   │   │   │   │   └── images/
+│   │   │   │   │       └── logo.png
+│   │   │   │   └── templates/
+│   │   │   │       ├── login.jsp
+│   │   │   │       ├── dashboard.jsp
+│   │   │   │       ├── ticket_list.jsp
+│   │   │   │       ├── ticket_details.jsp
+│   │   │   │       └── admin_dashboard.jsp
+│   │   └── test/
+│   │       ├── java/
+│   │       │   ├── com/
+│   │       │   │   ├── itsupport/
+│   │       │   │   │   ├── controller/
+│   │       │   │   │   │   └── UserControllerTest.java
+│   │       │   │   │   ├── service/
+│   │       │   │   │   │   ├── TicketServiceTest.java
+│   │       │   │   │   │   └── UserServiceTest.java
+│   │       │   │   │   └── repository/
+│   │       │   │   │       ├── TicketRepositoryTest.java
+│   │       │   │   │       └── UserRepositoryTest.java
+│   ├── pom.xml
+│   ├── application.properties
+└── README.md
