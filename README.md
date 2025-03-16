@@ -1,8 +1,8 @@
-```markdown
+
 # IT Support Management System - Helpdesk
 
 ## Description
-The **Helpdesk** system is a web-based application designed to streamline and manage IT support requests within an organization. Employees can submit IT-related support tickets, and IT staff can efficiently handle, track, and resolve these tickets. The system also includes email notifications, performance analytics, and role management to ensure smooth operations.
+The *Helpdesk* system is a web-based application designed to streamline and manage IT support requests within an organization. Employees can submit IT-related support tickets, and IT staff can efficiently handle, track, and resolve these tickets. The system also includes email notifications, performance analytics, and role management to ensure smooth operations.
 
 ## Features
 - **Ticket Submission**: Employees can open tickets for IT-related issues through the portal.
@@ -109,3 +109,4 @@ This project is licensed under the MIT License. See the [LICENSE.TXT](LICENSE.TX
 - **Bootstrap** for its responsive design features.
 - **jQuery** and **AJAX** for their assistance in implementing smooth, asynchronous updates.
 ```
+
