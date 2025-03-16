@@ -1,5 +1,3 @@
-Here’s how you could structure the README file based on the standard format and the details you provided:
-
 ```markdown
 # IT Support Management System - Helpdesk
 
