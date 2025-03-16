@@ -1,14 +1,12 @@
-package com.brianaubry.helpdesk.repository;
+package com.ambrose.helpdesk.repository;
 
-import com.brianaubry.helpdesk.model.Ticket;
-import com.brianaubry.helpdesk.model.User;
+import java.util.List;
+
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.data.jpa.repository.Query;
-import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 
-import java.util.List;
+import com.ambrose.helpdesk.model.Ticket;
 
 @Repository
 @Transactional

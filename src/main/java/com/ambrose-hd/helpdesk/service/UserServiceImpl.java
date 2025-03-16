@@ -1,9 +1,9 @@
-package com.brianaubry.helpdesk.service;
+package com.ambrose.helpdesk.service;
 
-import com.brianaubry.helpdesk.model.Role;
-import com.brianaubry.helpdesk.model.User;
-import com.brianaubry.helpdesk.repository.RoleRepository;
-import com.brianaubry.helpdesk.repository.UserRepository;
+import com.ambrose.helpdesk.model.Role;
+import com.ambrose.helpdesk.model.User;
+import com.ambrose.helpdesk.repository.RoleRepository;
+import com.ambrose.helpdesk.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;

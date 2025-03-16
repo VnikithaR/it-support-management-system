@@ -1,4 +1,4 @@
-package com.brianaubry.helpdesk.model;
+package com.ambrose.helpdesk.model;
 
 public enum Stage {
 

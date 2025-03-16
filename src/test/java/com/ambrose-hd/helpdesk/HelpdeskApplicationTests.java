@@ -1,4 +1,4 @@
-package com.brianaubry.helpdesk;
+package com.ambrose.helpdesk;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

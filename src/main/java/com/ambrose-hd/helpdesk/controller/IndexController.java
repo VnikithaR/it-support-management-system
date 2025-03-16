@@ -1,9 +1,9 @@
-package com.brianaubry.helpdesk.controller;
+package com.ambrose.helpdesk.controller;
 
-import com.brianaubry.helpdesk.model.Ticket;
-import com.brianaubry.helpdesk.model.User;
-import com.brianaubry.helpdesk.repository.TicketRepository;
-import com.brianaubry.helpdesk.service.UserService;
+import com.ambrose.helpdesk.model.Ticket;
+import com.ambrose.helpdesk.model.User;
+import com.ambrose.helpdesk.repository.TicketRepository;
+import com.ambrose.helpdesk.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;

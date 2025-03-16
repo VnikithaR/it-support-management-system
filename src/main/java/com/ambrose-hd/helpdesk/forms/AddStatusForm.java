@@ -1,7 +1,7 @@
-package com.brianaubry.helpdesk.forms;
+package com.ambrose.helpdesk.forms;
 
-import com.brianaubry.helpdesk.model.Status;
-import com.brianaubry.helpdesk.model.Ticket;
+import com.ambrose.helpdesk.model.Status;
+import com.ambrose.helpdesk.model.Ticket;
 
 import javax.validation.constraints.NotNull;
 

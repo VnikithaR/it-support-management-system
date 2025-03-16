@@ -1,7 +1,6 @@
-package com.brianaubry.helpdesk.service;
+package com.ambrose.helpdesk.service;
 
-import com.brianaubry.helpdesk.model.Role;
-import com.brianaubry.helpdesk.model.User;
+import com.ambrose.helpdesk.model.User;
 
 public interface UserService {
 
